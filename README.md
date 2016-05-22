@@ -12,3 +12,7 @@ https://github.com/jsvine/waybackpack - backup an entire wayback... backup
 ##### Machine learning!
 
 https://github.com/saiprashanths/dl-setup - set up an NVidia CUDA ML rig in Ubuntu, step-by-step
+
+##### Webstuff
+
+http://codepen.io/ekrof/pen/YqmXdQ/ - common web UX in vanilla CSS3. no js required.
