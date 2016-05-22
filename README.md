@@ -4,7 +4,7 @@ a collection of things i have been meaning to muck around with but haven't.
 
 otherwise, a collection of things i find valuable enough at face-value to highlight.
 
- ¯\_(ツ)_/¯
+ ¯\\_(ツ)_/¯
 
 ##### Scrape screens
 
