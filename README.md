@@ -26,3 +26,7 @@ http://codepen.io/ekrof/pen/YqmXdQ/ - common web UX in vanilla CSS3. no js requi
 ##### GFX
 
 https://egardepe.itch.io/hypercardgraphics - original hypercard graphics asset pack! clipart!
+
+##### infosec?
+
+http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ - secure ubuntu
