@@ -6,6 +6,12 @@ otherwise, a collection of things i find valuable enough at face-value to highli
 
  ¯\\\_(ツ)\_/¯
 
+#### Programmy Things
+
+##### Bash
+
+https://github.com/metal3d/bashsimplecurses/ - easy CURSES interfaces for bash
+
 ##### Scrape screens
 
 http://phantomjs.org/ - masquerade as webkit browser via JS api
@@ -30,3 +36,8 @@ https://egardepe.itch.io/hypercardgraphics - original hypercard graphics asset p
 ##### infosec?
 
 http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ - secure ubuntu
+
+
+##### Mental Health
+
+http://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play -- self-care toolkit
