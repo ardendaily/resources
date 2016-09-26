@@ -37,6 +37,9 @@ https://egardepe.itch.io/hypercardgraphics - original hypercard graphics asset p
 
 http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ - secure ubuntu
 
+##### windoze
+
+https://winworldpc.com/ ISOs for antique windowses
 
 ##### Mental Health
 
