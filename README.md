@@ -41,10 +41,15 @@ http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing
 
 https://winworldpc.com/ ISOs for antique windowses
 
+
+***
+
 ### Mental Health
 
 http://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play -- self-care toolkit
 
+
+***
 
 ### Audio
 
