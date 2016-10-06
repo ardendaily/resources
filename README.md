@@ -54,3 +54,6 @@ http://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/pl
 ### Audio
 
 http://linuxsampler.org/instruments.html - free instrument samples!
+	if you want direct access to the samples, you will have to install `sudo apt-get install gigtools` and run `gigdump` against the downloaded .gig file
+
+http://libremusicproduction.com/articles/demystifying-jack-%E2%80%93-beginners-guide-getting-started-jack -- beginner's guide for using JACK, so PD doesn't hijack ALL of ALSA, grumble grumble
