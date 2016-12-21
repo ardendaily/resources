@@ -27,6 +27,8 @@ https://github.com/saiprashanths/dl-setup - set up an NVidia CUDA ML rig in Ubun
 
 https://karpathy.github.io/2015/05/21/rnn-effectiveness/ - character-length recursive neural network tutorial. very pretty. such explain.
 
+https://github.com/crisbal/docker-torch-rnn - Docker files to take the setup out of ^
+
 ##### Webstuff
 
 http://codepen.io/ekrof/pen/YqmXdQ/ - common web UX in vanilla CSS3. no js required.
