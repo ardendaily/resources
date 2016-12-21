@@ -25,6 +25,8 @@ https://github.com/jsvine/waybackpack - backup an entire wayback... backup
 
 https://github.com/saiprashanths/dl-setup - set up an NVidia CUDA ML rig in Ubuntu, step-by-step
 
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/ - character-length recursive neural network tutorial. very pretty. such explain.
+
 ##### Webstuff
 
 http://codepen.io/ekrof/pen/YqmXdQ/ - common web UX in vanilla CSS3. no js required.
