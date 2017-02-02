@@ -35,6 +35,10 @@ https://github.com/Rdatatable/data.table/wiki/Amazon-EC2-for-beginners - ec2 spo
 
 http://codepen.io/ekrof/pen/YqmXdQ/ - common web UX in vanilla CSS3. no js required.
 
+##### Video
+
+http://jsmpeg.com/ - simple video decoding in javascript -- tight control over demuxing mpeg via websockets
+
 ##### GFX
 
 https://egardepe.itch.io/hypercardgraphics - original hypercard graphics asset pack! clipart!
