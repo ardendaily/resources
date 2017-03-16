@@ -1,4 +1,4 @@
-### Resources for inquisitive minds
+\### Resources for inquisitive minds
 
 a collection of things i have been meaning to muck around with but haven't.
 
@@ -67,3 +67,10 @@ http://linuxsampler.org/instruments.html - free instrument samples!
 	if you want direct access to the samples, you will have to install `sudo apt-get install gigtools` and run `gigdump` against the downloaded .gig file
 
 http://libremusicproduction.com/articles/demystifying-jack-%E2%80%93-beginners-guide-getting-started-jack -- beginner's guide for using JACK, so PD doesn't hijack ALL of ALSA, grumble grumble
+
+
+***
+
+### Pocket C.H.I.P. 
+
+http://www.humbletune.com/phase/ -- awesome sounding synths
